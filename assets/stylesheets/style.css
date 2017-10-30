@@ -227,7 +227,7 @@ legend {
 
     width: 30px;
     min-width: 30px;
-    max-width: 30px;
+    /* max-width: 30px; */
 }
 
 .controller-work_load .data .user-total-workload th,
